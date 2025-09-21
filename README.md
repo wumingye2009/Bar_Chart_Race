@@ -68,5 +68,5 @@ If your headers differ, update the column names in src/app.py.
 
 ## 📜 License
 
-MIT 
+This project is powered by MIT License
 
