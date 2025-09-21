@@ -1,0 +1,15 @@
+
+---
+
+## `requirements.txt`
+
+> 固定一个稳妥的下限版本，兼容你当前脚本（PyPI 0.1.0 的 `bar_chart_race`）。
+
+```txt
+pandas>=1.5
+matplotlib>=3.6
+bar_chart_race==0.1.0
+numpy>=1.23
+Pillow>=9.0
+
+
