@@ -2,7 +2,10 @@
 
 Create a **bar chart race** video of the **Top 10 CO₂-emitting countries** over time using Python.
 
-[![Watch the video](data/Bar-chart-race-cover-2.jpg)](https://wumingye2009.github.io/Blog/2025/09/20/Creating-a-Bar-Chart-Race-with-Python/Global_CO2_Emissions.mp4)
+<video width="320" height="240" controls poster="data/Bar-chart-race-cover-2.jpg">
+  <source src="https://wumingye2009.github.io/Blog/2025/09/20/Creating-a-Bar-Chart-Race-with-Python/Global_CO2_Emissions.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## ✨ Features
 - Converts tidy CSV into a **wide** time × country matrix for animation
